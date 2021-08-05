@@ -82,8 +82,8 @@
         "name" : "Nifi_Kafka_TG",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 776.0,
-          "y" : 176.0
+          "x" : 1032.0,
+          "y" : 184.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -159,7 +159,7 @@
           },
           "runDurationMillis" : 0,
           "scheduledState" : "ENABLED",
-          "schedulingPeriod" : "12 ms",
+          "schedulingPeriod" : "10 ms",
           "schedulingStrategy" : "TIMER_DRIVEN",
           "style" : { },
           "type" : "org.apache.nifi.processors.standard.GenerateFlowFile",
