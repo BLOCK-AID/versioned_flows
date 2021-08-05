@@ -1,0 +1,5 @@
+flows:
+  8989b9e2-922a-4062-8669-27f24eb89b23: {ver: 1, file: Nifi_Kafka_TG.snapshot, comments: '',
+    author: anonymous, created: 1628129243889, flowName: Nifi_Kafka_TG, flowDesc: ''}
+layoutVer: 1
+bucketId: 16ad9b67-f25a-45a7-8405-cae353a27b2e
